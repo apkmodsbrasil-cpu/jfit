@@ -1,23 +1,20 @@
 {
-  "short_name": "JornadaFit",
   "name": "JornadaFit",
-  "description": "Uma plataforma que conecta personal trainers e alunos, simplificando o planejamento de treinos e o acompanhamento do progresso para uma jornada fitness personalizada.",
+  "short_name": "JFit",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
   "icons": [
     {
-      "src": "icon-192x192.png",
-      "type": "image/png",
+      "src": "./icons/icon-192x192.png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "icon-512x512.png",
-      "type": "image/png",
+      "src": "./icons/icon-512x512.png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#030712",
-  "background_color": "#030712"
+  ]
 }
