@@ -2,7 +2,7 @@
   "name": "JornadaFit",
   "short_name": "JornadaFit",
   "description": "Uma plataforma que conecta personal trainers e alunos, simplificando o planejamento de treinos e o acompanhamento do progresso para uma jornada fitness personalizada.",
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#030712",
   "theme_color": "#030712",
